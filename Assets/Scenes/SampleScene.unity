@@ -865,6 +865,14 @@ PrefabInstance:
       propertyPath: yRange
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 2485077334590013602, guid: 4c97d3dbba0ffc543a99286383d623b8, type: 3}
+      propertyPath: posYawFactor
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2485077334590013602, guid: 4c97d3dbba0ffc543a99286383d623b8, type: 3}
+      propertyPath: controlRollFactor
+      value: -20
+      objectReference: {fileID: 0}
     - target: {fileID: 5647838410497929623, guid: 4c97d3dbba0ffc543a99286383d623b8, type: 3}
       propertyPath: m_Name
       value: StarSparrow6
